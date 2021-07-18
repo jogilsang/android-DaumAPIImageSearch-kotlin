@@ -58,4 +58,11 @@
     <string name="flower_image_content_description">Image of flower</string>
     <string name="remove_this_flower">Remove this flower</string>
 
+    <!-- Search -->
+    <string name="search_hint">Please enter the image you want to search.</string>
+    <string name="no_search">No results were found for your search.</string>
+
+    <string name="alarm_message_copyright">This image may be copyrighted.</string>
+
+
 </resources>
